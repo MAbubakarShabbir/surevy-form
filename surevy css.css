@@ -1,0 +1,99 @@
+body{
+    background: skyblue;
+}
+h1{
+    
+    align-items: center;
+    text-align: center;
+    border: 0px;
+    padding: 0px;
+
+}
+form{
+    text-align: center;
+    background: white;
+    width: 1200px;
+    margin: 20px auto 20px auto;
+    padding: 20px 30px 20px 30px;
+    height: 600px;
+    
+}
+
+.sub{
+    font-display: block;
+    text-align: center;
+}
+#name input{
+    border: 2px solid skyblue;
+    border-radius: 0%;
+    font-family: inherit;
+    padding: 10px;
+    display: inline;
+    width: 25%;
+
+
+}
+#Email input{
+    border: 2px solid skyblue;
+    border-radius: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    display: inline;
+    width: 25%;
+}
+.age input{
+       border: 2px solid skyblue;
+       border-radius: 0%;
+       font-family: Arial, Helvetica, sans-serif;
+       padding: 10px;
+       display: inline;
+       width: 25%;      
+
+}
+#status select{
+    border: 2px solid skyblue;
+    border-radius: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    display: inline;
+    width: 200px;
+    
+}
+.rec1{
+    vertical-align:1px;
+    padding: 500px;
+    margin: 20px;
+    
+}
+.rec2{
+    display:inline-table;
+    column-fill: skyblue;
+    box-align: auto;
+}
+.student{
+
+        border: 2px solid skyblue;
+        border-radius: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+        display: inline;
+        width: 25%;    
+
+}
+.thing{
+    vertical-align:1px ;
+
+}
+.check{
+    display: inline-table;
+    
+}
+.button{   
+
+            display: inline;
+            border-radius: 10px;
+            background-color:skyblue;
+            color:skyblue;
+            padding: 10px;
+            width: 15%;
+}
